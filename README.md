@@ -1,2 +1,2 @@
 # Street-Light
-How do Street Light turn ON automatically
+How do Street Light turn ON automatically?
